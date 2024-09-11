@@ -59,7 +59,7 @@
   position: absolute;
   top: -152px;
   left: -129px;
-  z-index: 0;
+  z-index: -1;
 }
 
 .about__circle_animation_blurred {
