@@ -14,3 +14,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add additional recipes for Baked Goods!
+
+## Link to the Project Below:
+https://xmrterriblex.github.io/se_project_coffeeshop/
